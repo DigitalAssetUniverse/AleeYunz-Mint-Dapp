@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA90Ed1b119c12BCdF95f35Bd5A0BADa4416bC1f4",
+  "SCAN_LINK": "https://polygonscan.com/address/0xa90ed1b119c12bcdf95f35bd5a0bada4416bc1f4#code",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "AleeYunz",
+  "SYMBOL": "AY",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/aleeyunz",
+  "SHOW_BACKGROUND": true
+}
